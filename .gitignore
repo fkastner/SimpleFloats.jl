@@ -1,0 +1,10 @@
+docs/build/
+*~
+*.log
+*.jl.cov
+*.jl.mem
+/Manifest.toml
+/docs/Manifest.toml
+/test/Manifest.toml
+.vscode/
+.directory
